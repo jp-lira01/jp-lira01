@@ -9,30 +9,30 @@ Me chamo João Pedro de Lira, atualmente estou cursando Ciência da Computação
 ### 🤖 Linguagens e Tecnologias
 
 <img
- align="left"
- alt="Python"
- title="Python"
- width="50px"
- style="padding-right: 20px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  align="left"
+  alt="Python"
+  title="Python"
+  width="50px"
+  style="padding-right: 20px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <img
- align="left"
- alt="C"
- title="C"
- width="50px"
- style="padding-right: 20px;"
- src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
+  align="left"
+  alt="C"
+  title="C"
+  width="50px"
+  style="padding-right: 20px;"
+  src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
 />
 
 <img
- align="left"
- alt="Git"
- title="Git"
- width="50px"
- style="padding-right: 20px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  align="left"
+  alt="Git"
+  title="Git"
+  width="50px"
+  style="padding-right: 20px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
 <br/>
@@ -57,6 +57,10 @@ Sistema desenvolvido em Python para cadastro de pessoas e geração de relatóri
 #### 🎓 [Boletim Escolar](https://github.com/jp-lira01/boletim-escolar-python)
 
 Projeto desenvolvido em Python para gerenciamento de alunos e notas, aplicando conceitos de Programação Orientada a Objetos.
+
+#### 📦 [Calculadora de Logística](https://github.com/jp-lira01/Calculadora-logistica-C)
+
+Programa desenvolvido em C para cálculo de frete de produtos, considerando informações como peso, preço e região de destino, além de prazos estimados de entrega.
 
 ---
 
